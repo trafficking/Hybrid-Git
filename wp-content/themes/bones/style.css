@@ -1,0 +1,32 @@
+/*
+Theme Name: Breez Bones
+Author: Benjamin  Rees
+Author URI: http://windorbreez.com
+Description: Who's Awesome? You're Awesome.
+Version: 1.0
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Raleway:200,300,500);
+
+/* text alignment */
+.text-left {
+  text-align: left;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+
+/* Panels */
+
+.min-panel  {
+min-height:300px;
+}
+
+/* Nav Menu */
+
+.nav a {
+color:#000;
+}

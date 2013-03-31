@@ -1,0 +1,119 @@
+/* 
+!important	//fast lazy way
+
+SkyBlue = #87CEEB;
+DarkBlue = #659CB3;
+
+*/
+
+/*	fonts	*/
+html {
+	-webkit-font-smoothing: antialiased!important;
+	font-family:Raleway, sans-serif!important;
+}
+
+body {
+	-webkit-font-smoothing: antialiased!important;
+	font-family:Raleway, sans-serif!important;
+}
+
+footer {
+background:skyblue;
+/*
+background-image: url('/bones/wp-content/uploads/2013/03/footer-bg2.png');
+background-repeat: no-repeat;
+background-position: bottom center;
+background-attachment: scroll;
+*/
+}
+
+h1 {
+    text-align:center;
+	font: 200 60px/1.3 Raleway, sans-serif!important;
+}
+
+h2 {
+	font: 200 36px/1.3 Raleway, sans-serif!important;
+}
+
+#outer-header {
+background:skyblue;
+padding:30px;
+}
+
+h1.header-logo {
+color:white!important;
+cursor:default;
+font-size:120px!important;
+margin:0;
+padding:0;
+text-align:center;
+}
+
+h2.header-logo  {
+color:white!important;
+cursor:default;
+font-size:50px!important;
+font-weight:300!important;
+margin:0;
+padding:0;
+text-align:center;
+}
+
+.page-title h2 {
+    text-align:left;
+	font: 200 50px/1.3 Raleway, sans-serif!important;
+}
+
+p {
+	font: 300 20px/2 Raleway, sans-serif!important;
+}
+
+a {
+	font: 200 24px/2 Raleway, sans-serif!important;
+}
+
+.widget a {
+	font: 200 14px/2 Raleway, sans-serif!important;
+}
+
+.sidebar a {
+	font: 200 18px/2 Raleway, sans-serif!important;
+}
+
+.sidebar h4 {
+font-size:22px!important;
+font-weight:normal!important;
+}
+
+.page-title {
+border-bottom: 1px solid skyBlue;
+cursor:default;
+}
+
+.widget a {
+color:white;
+}
+
+.header {
+}
+
+.blog-entry p {
+margin-left:auto;
+margin-right:auto;
+max-width:80%;
+}
+
+#foundation-nav {
+display:inline!important;
+text-align:center;
+margin-top:10px;
+}
+
+.logo-area {
+text-align:center;
+}
+
+/* Hiding elements from the responsive gallery */
+.rg-view {display:none;}
+.es-nav {display:none;}

@@ -1,0 +1,25 @@
+/*** List of stuff I've changed ***/
+
+> Deleted 
+*wp-admin/install.php
+*wp-admin/install-helper.php
+*wp-admin/upgrade.php (anyone can launch this, even here on wordpress.org/development/...)
+*wp-admin/upgrade-functions.php
+*wp-admin/import.php
+
+> Deleted
+*2011 theme
+*Front-Page template
+
+> Changed root .htaccess file to redirect wp-login.php more easily
+*http://localhost/bones/wp-admin/login
+
+> Deleted things from start of functions.php and made functions child
+
+> Modified login page
+
+> Made own personal widget
+
+> Hid other dashboard widgets
+
+>>> Deleted 2012 theme and started with Bones
